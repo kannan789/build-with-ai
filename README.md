@@ -1,4 +1,4 @@
-🚀 ###Overview:
+🚀 **Overview:**
 This project was built during the Build With AI event organized by Google Developer Groups (GDG). Leveraging the Antigravity IDE and expert mentorship, the solution demonstrates how modern AI tools can be rapidly prototyped into functional applications.
 
 
